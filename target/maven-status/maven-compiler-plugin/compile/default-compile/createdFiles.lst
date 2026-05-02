@@ -1,0 +1,5 @@
+com\klef\fsad\exam\ExamApplication.class
+com\klef\fsad\exam\repository\BookingRepository.class
+com\klef\fsad\exam\controller\BookingController.class
+com\klef\fsad\exam\model\Booking.class
+com\klef\fsad\exam\service\BookingService.class
